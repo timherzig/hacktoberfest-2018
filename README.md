@@ -1,4 +1,4 @@
-# Hactoberfest-2018
+# Hacktoberfest-2018
 Support open source and earn a limited edition T-shirt.
 Dont forget `Register` your github first,
 https://hacktoberfest.digitalocean.com/
